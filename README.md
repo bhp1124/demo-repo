@@ -1,15 +1,5 @@
-#DEMO
 
-SOME INFORMATION!
-
-## Subheader
-
-Watch tutorial on Youtube.
+#DEMO number 2 SOME INFORMATION!
 
 
 
-
-## Local Development
-
-1.Open index.html in your browser
-2.Whats new ?????????.>>>>>>>>>>>>///////
